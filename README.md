@@ -15,4 +15,4 @@ Para criação do projeto utilizei a seguinte ferramenta:
 
 
 ---
-⌨️ com ❤️ por [Fabio Santos](https://gist.github.com/Fabiocsan) 😊
+Feito com ❤️ por [Fabio Santos](https://gist.github.com/Fabiocsan) 😊
